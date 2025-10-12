@@ -40,5 +40,6 @@ A donut chart depicting the yearly maize production distribution across differen
 
 This bar chart compares the total production volumes of grapes (43 billion tonnes), apples (39 billion tonnes), bananas (32 billion tonnes), and oranges (26 billion tonnes). It provides a comparative view of the global production scales of these popular fruits.
 
-![Dashboard Preview].(https://github.com/saiteemara/Global-Food-Production-Analysis/blob/main/Screenshot%202025-10-07%20233926.png)
+
+<img src="https://github.com/saiteemara/Global-Food-Production-Analysis/blob/main/Screenshot%202025-10-07%20233926.png" alt="dashboard">
 
