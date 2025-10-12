@@ -42,4 +42,5 @@ This bar chart compares the total production volumes of grapes (43 billion tonne
 
 
 <img src="https://github.com/saiteemara/Global-Food-Production-Analysis/blob/main/Screenshot%202025-10-07%20233926.png" alt="dashboard">
+<img src="https://github.com/saiteemara/Global-Food-Production-Analysis/blob/main/report%20image.png">
 
